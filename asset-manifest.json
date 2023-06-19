@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/TextGame/static/js/main.d6047acb.js",
+    "static/js/787.d3befce1.chunk.js": "/TextGame/static/js/787.d3befce1.chunk.js",
+    "index.html": "/TextGame/index.html",
+    "main.d6047acb.js.map": "/TextGame/static/js/main.d6047acb.js.map",
+    "787.d3befce1.chunk.js.map": "/TextGame/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d6047acb.js"
+  ]
+}
